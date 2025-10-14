@@ -73,7 +73,7 @@
 
 **B.Sc. in Computer Science & Engineering**  
 *Bangladesh University of Business and Technology (BUBT)*  
-📅 2017 – 2021 | 🎓 CGPA: 3.83
+📅 2017 – 2021 | 🎓 CGPA: 3.83/4.00
 
 ---
 
