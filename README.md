@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate Frontend Engineer with **3+ years** of experience
+- 💻 Passionate Frontend Engineer with **4 years** of experience
 - 🛠️ Skilled in **React.js**, **Vue.js**, **Next.js**, and modern frontend stacks
 - 🎯 Focused on building performant, accessible, and beautiful user interfaces
 - 🌱 Always learning and exploring new frontend technologies
