@@ -43,7 +43,7 @@
 ## 💼 Experience
 
 **Frontend Engineer – Exabyting**  
-*Oct 2023 – Present*  
+*Oct 2023 – Aug 2025*  
 - Developed key features for [bKash](https://www.bkash.com/en) using React, Laravel & Next.js  
 - Created drag-and-drop Flow Builder for [Sogedes](https://factory.sogedes.ai/)  
 - Built onboarding dashboards and settings for [Empatick](https://www.empatick.com/en)
