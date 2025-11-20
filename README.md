@@ -63,7 +63,7 @@
 | [Sogedes Flow Builder](https://factory.sogedes.ai/) | React, Tailwind, React Flow | Drag-and-drop AI conversation builder |
 | [Empatick](https://www.empatick.com/en) | Next.js, Bootstrap | Onboarding platform for deskless workers |
 | [QuestionPro](https://www.questionpro.com/) | React, TypeScript, Jest | Feedback-to-ticketing system |
-| [CasaBeauMonde](https://casabeaumonde.com/) | Nuxt, Quasar | Multi-vendor eCommerce site |
+| [CasaBeauMonde](https://www.casabeaumonde.com/) | Nuxt, Quasar | Multi-vendor eCommerce site |
 | [Biziary](http://www.biziary.com) | React, Chakra UI | Global business directory |
 | [ShipSimple](https://shipsimple.ca/) | Next.js, Flowbite | Courier/shipping platform |
 
