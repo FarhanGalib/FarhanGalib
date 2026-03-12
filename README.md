@@ -83,7 +83,7 @@
 ## 📫 Let's Connect
 
 - 📬 Email: [fgalib021297@gmail.com](mailto:fgalib021297@gmail.com)  
-- 🌐 Portfolio: [farhangalib.github.io/portfolio](https://farhangalib.github.io/portfolio/)  
+- 🌐 Portfolio: [farhan-galib.com.bd](https://www.farhan-galib.com)  
 - 💼 LinkedIn: [linkedin.com/in/farhan-galib-05a4891b3](https://linkedin.com/in/farhan-galib-05a4891b3)
 
 ---
