@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Software Engineer | React.js • Vue.js • Next.js</h3>
 
 <p align="center">
-  <a href="https://farhangalib.github.io/portfolio/" target="_blank"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://farhan-galib.com.bd" target="_blank"><strong>🌐 Portfolio</strong></a> •
   <a href="https://www.linkedin.com/in/farhan-galib-05a4891b3" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/FarhanGalib" target="_blank">💻 GitHub</a>
 </p>
