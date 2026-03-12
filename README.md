@@ -64,8 +64,9 @@
 | [Empatick](https://www.empatick.com/en) | Next.js, Bootstrap | Onboarding platform for deskless workers |
 | [QuestionPro](https://www.questionpro.com/) | React, TypeScript, Jest | Feedback-to-ticketing system |
 | [CasaBeauMonde](https://www.casabeaumonde.com/) | Nuxt, Quasar | Multi-vendor eCommerce site |
-| [Biziary](http://www.biziary.com) | React, Chakra UI | Global business directory |
+| [Biziary]() | React, Chakra UI | Global business directory |
 | [ShipSimple](https://shipsimple.ca/) | Next.js, Flowbite | Courier/shipping platform |
+| [TheLoge](https://the-loge.com/en/) | Angular.js, PrimeNg | Golf booking and management platform |
 
 ---
 
